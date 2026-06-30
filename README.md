@@ -64,3 +64,32 @@ lifepilot-ai/
 ├── package-lock.json
 └── README.md
 
+⚙️ Installation & Setup
+git clone https://github.com/Soudamini74/ahead-ai.git
+cd ahead-ai
+npm install
+npm run dev
+
+-How It Works:
+Enter your task
+Set deadline & priority
+Click Generate Plan
+AI breaks it into steps
+View:
+Score
+Smart insights
+Execution timeline
+Task history
+
+Future Improvements
+~Voice input for tasks 
+~Real AI backend (OpenAI integration) 
+~Drag & drop timeline
+~Notion / Google Calendar sync
+~Dark/light theme toggle
+
+
+Author
+Made by Soudamini
+
+
